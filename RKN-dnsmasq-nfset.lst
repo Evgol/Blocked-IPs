@@ -1,5 +1,5 @@
 # IPs
-nftset=/tmp/tmp/rkn-ips.lst#4#inet#vpn_domains
+# nftset=/tmp/tmp/rkn-ips.lst#4#inet#vpn_domains
 # Telegram
 nftset=/cdn-telegram.org/4#inet#fw4#vpn_domains
 nftset=/comments.app/4#inet#fw4#vpn_domains
