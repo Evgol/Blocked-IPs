@@ -20,6 +20,7 @@ nftset=/tg.dev/4#inet#fw4#vpn_domains
 nftset=/tx.me/4#inet#fw4#vpn_domains
 nftset=/usercontent.dev/4#inet#fw4#vpn_domains
 nftset=/ton.org/4#inet#fw4#vpn_domains
+nftset=/stel.com/4#inet#fw4#vpn_domains
 # Whatsapp
 nftset=/facebook.com/4#inet#fw4#vpn_domains
 nftset=/fbcdn.net/4#inet#fw4#vpn_domains 
